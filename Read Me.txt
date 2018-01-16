@@ -1,0 +1,8 @@
+This is a simple GUI based BMI calculator that takes the input as 
+1) height in centemeter 
+2)weight in kilogram
+
+On button click we get out Result(BMI) along with some sample BMI guide
+
+contact details:-
+email id:- officialrahulmandal@gmail.com
